@@ -47,59 +47,6 @@ I'm a Python Backend Developer with 1+ year of professional experience in backen
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Technologies |
-|---|---|
-| AI News Summarizer | Python, Flask, NLP, NLTK |
-| Vehicle Speed Detection | Python, YOLO, OpenCV |
-| Facial Emotion Detection | Python, DeepFace, OpenCV |
-| Email Spam Classifier | Python, Scikit-learn, NLP |
-| Stock Market Analysis | Python, XGBoost |
-
----
-
-## 💼 Professional Experience
-
-**Python Data Analyst | Vyapi Software**
-
-September 2025 – Present
-
-- Developed Python backend services using FastAPI.
-- Built AI-powered log analysis solutions using Azure AI Foundry.
-- Developed GPT-based chatbot applications.
-- Implemented anomaly-based log monitoring.
-- Automated report generation using Asyncio and background tasks.
-- Worked with Data Lake and DuckDB for historical data analytics.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUTHIKANRAJ&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUTHIKANRAJ&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MUTHIKANRAJ&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUTHIKANRAJ&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
